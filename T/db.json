@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Grey Jacket",
+      "price": 10000,
+      "quantity": 20,
+      "img": "assets/images/product.png",
+      "currency": "Dolar",
+      "status": "Closing soon "
+    },
+    {
+      "id": 2,
+      "name": "Grey Jacket",
+      "price": 10000,
+      "quantity": 20,
+      "img": "assets/images/product.png",
+      "currency": "Dolar",
+      "status": "Explore"
+    },
+    {
+      "id": 3,
+      "name": "Grey Jacket",
+      "price": 10000,
+      "quantity": 20,
+      "img": "assets/images/product.png",
+      "currency": "Dolar",
+      "status": "Sold out"
+    }
+  ]
+}
